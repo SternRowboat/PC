@@ -1,0 +1,3 @@
+2022-02-03 18:29:58,671 | root | INFO | Hello, log level is DEBUG
+2022-02-03 18:30:00,646 | root | INFO | CPU's FOUND: 150
+2022-02-03 18:30:00,646 | root | INFO | CPU's PARSED: 150
